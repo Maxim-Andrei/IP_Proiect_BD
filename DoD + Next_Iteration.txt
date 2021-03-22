@@ -1,0 +1,20 @@
+General
+
+-> oferirea unui API ce permite lucrul cu o DB de care se pot folosi ceilalti membri
+
+-> baza de date e integrata in cadrul aplicatiei
+ iar functionalitatile si procesarile corespunzatoare 
+ pot fi preluate, codificate, filtrate, executate si decodificate
+
+Week5
+
+-> alegerea unui scrum master: Claudia Sotir
+-> crearea unui cont de git si trello(atribuirea sarcinilor) 
+-> hotararea asupra tehnologiilor ce urmeaza sa fie utilizate
+-> realizarea diagramelor C4 si UML 
+
+Next week
+
+-> finalizarea discutiilor legate de framework-uri
+-> proiectarea bazei de date
+
