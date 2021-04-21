@@ -1,0 +1,26 @@
+
+Fiecare tabela va avea clasaEntitate si o clasaRepository
+
+General oblgatoriu
+
+findBy(attribute)
+findByAll(param=NULL,..)
+findByCondition(String cond)--o sa parsam sa vedem daca e corecta conditia,
+insert(row)
+update(row/class)
+
+
+Optionale
+
+sortByAll()--
+groupBy()
+
+
+*connect()
+*Init()--initealizeaza setup-ul
+*Signal()-- ex nu mai este nevoie de un anumit user
+
+Interfete de lucru
+Cursoare -- parcurgere rezultate functii
+
+
